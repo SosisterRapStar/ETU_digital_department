@@ -1,2 +1,2 @@
 # ETU_digital_department
-intellectual analysis of big data
+Program: *Intellectual analysis of big data*
